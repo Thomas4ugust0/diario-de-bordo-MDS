@@ -1,1 +1,20 @@
+---
+title: "Entre releases"
+authors:
+  - Thomas: thomas4ugust0
+tags: [entre-releases]
+date: 2026-10-28
+---
 
+
+## 8. Como o feedback recebido (de colegas, professora, monitoria) tem influenciado o que vocês estão fazendo agora?
+
+O feedback tem ajudado a perceber que MDS consiste não só de implementar as funcionalidades do produto, mas também em organizar devidamente o processo e documentar as decisões do projeto. Isso tem influenciado principalmente na nossa maior preocupação com a definição da arquitetura, requisitos, organização das sprints e documentação. Um exemplo é a necessidade de formalizar algumas decisões que ainda estavam apenas sendo discutidas pela equipe, já que muito do que conversamos acabou sendo perdido entre as reuniões. Nós também passamos a pensar mais em como documentar o uso de IA e manter um contexto consistente e mais adqueado para as ferramentas utilizadas no desenvolvimento.
+
+## 9. O que mudou, para você, entre o início da disciplina e este momento — tecnicamente e no seu jeito de trabalhar em equipe?
+
+No início, eu enxergava o projeto principalmente como uma aplicação que precisava ser programada. Agora percebo mais claramente que desenvolver software envolve muitos outros aspectos que estão por trás de fazer um bom produto, como fazer requisitos, definir as prioridades, documentar decisões, dividir responsabilidades e pensar na manutenção do sistema. No projeto do Agenda UnB, isso ficou evidente porque tive que destrinchar os passos que eu estava acostumado a fazer nas matérias anteriores e passei a fazer essas divisões e delegar funções, deixando todos ocupados e sempre trabalhando em algo em prol do projeto.
+
+## 10. Compare como você está se sentindo na preparação desta segunda entrega com a forma como se sentiu na primeira.
+
+Durante a preparação dessa segunda entrega, estou me sentido mais confiante no nível de maturidade que a equipe possui, assim como a robustez do produto que estamos desenvolvendo. Anteriormente, tínhamos menos convicção no propósito do projeto, e o impacto que ele poderia trazer para a coumnidade acadaêmica, porém no estado atual já temos uma boa noção do que queremos para o projeto, qual o público-alvo e qual o impacto de fazer um produto pensando em problemas reais e no usuário final. Também se tornou visível a melhoria na fluidez do projeto, pois todos agora estão envolvidos com o projeto e estão mais autônomos em suas funções.
